@@ -70,9 +70,12 @@ https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/6831162
 
 https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/4b0a5e2d-3316-44bb-ae0b-fcf948341489
 
-* [Woods](so-vits-svc-4.1/Example_Audio/TestAudio_Woods.mp4)
-* [Dauda](so-vits-svc-4.1/Example_Audio/TestAudio_Dauda.mp4)
-* [Bishop](so-vits-svc-4.1/Example_Audio/TestAudio_Bishop.mp4)
+https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/2356e863-149a-4bef-9ea9-786cdf13a157
+
+https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/33f597ab-d2e4-4cc6-9521-c0937b725735
+
+https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/31004584-c393-409f-ad4e-0a4ac2746a33
+
 
 所有模型均使用  [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc/tree/4.0) 进行训练
 
