@@ -93,7 +93,7 @@ so-vits-svc-4.1
     │   
     └───logs
           └───44k
-                ├───D_(name of character).pth - file required for more training
+                ├───G_(name of character).pth - Default model
                 ├───(name of character)Kmeans.pt - fusion model
                 └───diffusion
                         └───(name of character).pt - difussion model for character
@@ -107,7 +107,7 @@ data_set - dataset used for training, audio cut to slices.
 Select Default model, diffusion model, fusion model and respective config for training.
 
 * Fusion model = cluster model
-* You may not see the option for diffusion as it is a new feature, it is only provided in some versions of so-vits-forks
+* You might not see the option for diffusion as it is a new feature, it is only provided in some versions of so-vits-forks
 
 
 
