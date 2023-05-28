@@ -15,9 +15,11 @@
 <div align="center">
 
   <h3 align="center">GTFO_Character_Voice_models</h3>
-
+  
+  [中文版](README_ZH.md)
 </div>
 
+  
 
 
 <!-- TABLE OF CONTENTS -->
@@ -29,10 +31,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -44,7 +42,7 @@
 ## About The Project
 
 
-This project provides trained models for `audio to audio` simulation using so-vits-4.1, as training the model is resource intensive, but not so much for infering an audio.
+This project provides trained models for `audio to audio` simulation using so-vits-4.1, as training the model is resource intensive, but not so much for infering an audio. Every model included has been trained for at least 20K steps
 
 This repo includes:
 * All data sets used to train the models
@@ -81,8 +79,6 @@ Trained with [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc/tree/
 To use the models, you need to follow the instructions on [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc/tree/4.0) or [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) for a better GUI and easier inference as no training is required.
 
 
-
-### Installation
 Dragging the folder into the so-vits-svc folder should work right away, otherwise, move models to designated folder based on description.
 ```
 so-vits-svc-4.1
@@ -117,7 +113,7 @@ Select Default model, diffusion model, fusion model and respective config for tr
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
+If used, please attatch link to the repo.
 
 
 
