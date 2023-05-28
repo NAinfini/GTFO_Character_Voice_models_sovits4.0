@@ -62,8 +62,11 @@ Dataset Source:
 * [Bishop](https://www.youtube.com/watch?v=OJp-yALvqGU)
 
 Examples:
-* [Origional](so-vits-svc-4.1/Example_Audio/TestAudio_Origional.mp4)
-* [Hacket](so-vits-svc-4.1/Example_Audio/TestAudio_Hacket.mp4)
+
+https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/702f1842-637b-41ca-958c-702ab315e8e3
+
+https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/68311621/4b0a5e2d-3316-44bb-ae0b-fcf948341489
+
 * [Woods](so-vits-svc-4.1/Example_Audio/TestAudio_Woods.mp4)
 * [Dauda](so-vits-svc-4.1/Example_Audio/TestAudio_Dauda.mp4)
 * [Bishop](so-vits-svc-4.1/Example_Audio/TestAudio_Bishop.mp4)
