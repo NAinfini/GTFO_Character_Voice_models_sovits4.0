@@ -105,7 +105,9 @@ data_set - dataset used for training, audio cut to slices.
 ## Usage
 
 Select Default model, diffusion model, fusion model and respective config for training.
-
+Note: Update the speaker in the config file to avoid key errors.
+"Hacket_data_set,Dauda_data_set,Bishop_data_set,Woods_data_set"
+If that does not work, try using pre process a folder with such names, and preconfig to set all configs with the same voice name. 
 * Fusion model = cluster model
 * You might not see the option for diffusion as it is a new feature, it is only provided in some versions of so-vits-forks
 
