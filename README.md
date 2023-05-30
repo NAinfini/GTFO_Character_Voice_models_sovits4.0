@@ -86,15 +86,12 @@ To use the models, you need to follow the instructions on [so-vits-svc](https://
 Dragging the folder into the so-vits-svc folder should work right away, otherwise, move models to designated folder based on description.
 ```
 so-vits-svc-4.1
-    │
-    ├───configs
-    │      ├───config.json - config file for default training
-    │      └───diffusion.yaml - config file for diffusion training
-    │   
     └───logs
           └───44k
                 ├───G_(name of character).pth - Default model
                 ├───(name of character)Kmeans.pt - fusion model
+                ├───config(name of character)json - config file for default training
+                ├───diffusion(name of character).yaml - config file for diffusion training
                 └───diffusion
                         └───(name of character).pt - difussion model for character
 

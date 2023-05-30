@@ -90,15 +90,12 @@ https://github.com/NAinfini/GTFO_Character_Voice_models_sovits4.0/assets/6831162
 
 ```
 so-vits-svc-4.1
-    │
-    ├───configs
-    │      ├───config.json - 默认模型训练设置
-    │      └───diffusion.yaml - 扩散模型设置
     │   
     └───logs
           └───44k
                 ├───G_(name of character).pth -  默认模型
                 ├───(name of character)Kmeans.pt - 聚集模型
+                ├───config.json - 默认模型训练设置
                 └───diffusion
                         └───(name of character).pt - 扩散模型
 

@@ -26,7 +26,7 @@ model:
   type: Diffusion
   use_pitch_aug: true
 spk:
-  hacket: 0
+  Woods_data_set: 0
 train:
   amp_dtype: fp16
   batch_size: 48
@@ -37,7 +37,7 @@ train:
   epochs: 100000
   gamma: 0.5
   interval_force_save: 10000
-  interval_log: 10
+  interval_log: 100
   interval_val: 2000
   lr: 0.0002
   num_workers: 2
